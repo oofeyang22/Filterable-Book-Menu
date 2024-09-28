@@ -17,7 +17,7 @@ const menuItems: MenuItem[] = [
     category: "fantasy",
     price: 15.99,
     img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451444392i/22522805.jpg",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: "A knight and his wife embark on a dangerous journey to find their son, encountering mythical creatures."
   },
   {
     id: 2,
@@ -25,7 +25,8 @@ const menuItems: MenuItem[] = [
     category: "thriller",
     price: 13.99,
     img: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043.jpg",
-    desc: "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats"
+    desc: "Amy Dunne mysteriously disappears on her fifth wedding anniversary, leaving behind clues that suggest she may have been murdered by her husband, Nick."
+
   },
   {
     id: 3,
@@ -33,7 +34,7 @@ const menuItems: MenuItem[] = [
     category: "science fiction",
     price: 13.99,
     img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
-    desc: "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats"
+    desc: "Set on the desert planet Arrakis, the story follows Paul Atreides, a young man destined to become the Messiah of the Fremen people."
   },
   {
     id: 4,
@@ -41,7 +42,7 @@ const menuItems: MenuItem[] = [
     category: "horror",
     price: 15.99,
     img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680029689i/123878454.jpg",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: "The story centers around Count Dracula, a centuries-old vampire who travels to England to spread his influence."
   },
   {
     id: 5,
@@ -49,7 +50,7 @@ const menuItems: MenuItem[] = [
     category: "fantasy",
     price: 15.99,
     img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353424536i/13642.jpg",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: " It follows the journey of Ged, a powerful young wizard who accidentally summons a dangerous spirit"
   },
   {
     id: 6,
@@ -57,7 +58,7 @@ const menuItems: MenuItem[] = [
     category: "thriller",
     price: 15.99,
     img: "https://uncagedfhs.org/wp-content/uploads/2021/01/silent-patient-cover.jpg",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: "Alicia Berenson, a renowned painter, shoots her husband five times in the face and then refuses to speak a word."
   },
   {
     id: 7,
@@ -65,7 +66,7 @@ const menuItems: MenuItem[] = [
     category: "science fiction",
     price: 15.99,
     img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: "Astronaut Mark Watney is stranded on Mars after a severe storm forces his crew to evacuate."
   },
   {
     id: 8,
@@ -73,7 +74,7 @@ const menuItems: MenuItem[] = [
     category: "horror",
     price: 15.99,
     img: "https://theforeword.org/wp-content/uploads/2022/11/unnamed.png",
-    desc: "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    desc: " It tells the story of Victor Frankenstein, a young scientist obsessed with creating life."
   }
 ];
 

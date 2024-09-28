@@ -52,7 +52,7 @@ const Menu: React.FC = () => {
   return (
     <section className="menu">
       <div className="title">
-        <h2>Book Menu</h2>
+        <h2>Book Haven</h2>
         <div className="underline"></div>
       </div>
       <div className="btn-container">{displayMenuButtons()}</div>
