@@ -73,7 +73,7 @@ const menuItems: MenuItem[] = [
     title: "Frankenstein",
     category: "horror",
     price: 15.99,
-    img: "https://theforeword.org/wp-content/uploads/2022/11/unnamed.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr5OOxiAyl7BzLp3iagbc0WNpqWoLXcubUQ&s",
     desc: " It tells the story of Victor Frankenstein, a young scientist obsessed with creating life."
   }
 ];
